@@ -1,4 +1,4 @@
-# Motion Sensor for LG OLED TV
+# Auto Sleep LG OLED TV with Motion Sensor
 ![](images/Prototype_Case.jpg)
 
 I built a device to automatically turn on/off my LG OLED TV screen with a presence sensor. I use this TV as a computer montior, so this helps protect the OLED against burn in when I'm away from the display.
