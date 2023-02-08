@@ -14,6 +14,6 @@ My implementation includes the following components:
 ESP32  |  LD2410C   
 5V      <-> VCC  
 GND     <-> GND  
-13 (Configurable)     <-> OUT  
+GPIO 13 (Configurable)     <-> OUT  
 
 ![](images/OLED_Auto_Sleep_Wiring.jpg)
